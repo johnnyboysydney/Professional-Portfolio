@@ -3,6 +3,7 @@ body {
 }
 
 ul {
-    list-style: circle;
-    margin: 5px;
+    list-style: disc;
+    margin: 8px;
 }
+
