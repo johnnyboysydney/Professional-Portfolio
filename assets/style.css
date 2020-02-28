@@ -1,3 +1,6 @@
+
+
+/* We add our styles to the body */
 body {
     background-color: beige;
 }
@@ -6,6 +9,9 @@ ul {
     list-style: disc;
     margin: 8px;
 }
+
+/* We control the row elements of the site. */
+
 
 /* Style all font awesome icons */
 .fa {
