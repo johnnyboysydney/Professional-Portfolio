@@ -4,7 +4,7 @@ Creating a professional portfolio displaying important information regarding my 
 
 ## Eaxmples
 
-![IT_manager](https://user-images.githubusercontent.com/54227198/75551755-fd4dae00-5a88-11ea-9e2d-d7b50b877c05.jpg)
+![IT_manager](https://user-images.githubusercontent.com/54227198/75551755-fd4dae00-5a88-11ea-9e2d-d7b50b877c05.jpg)![Screenshot1](assets/images/Cap1.JPG)![Screenshot2](assets/images/Cap2.JPG)![Screenshot3](assets/images/cap3.JPG)
 
 
 ## Getting Started
