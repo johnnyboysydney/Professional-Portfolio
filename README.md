@@ -2,6 +2,11 @@
 
 Creating a professional portfolio displaying important information regarding my skill-set and background experience in IT.
 
+## Eaxmples
+
+![IT_manager](https://user-images.githubusercontent.com/54227198/75551755-fd4dae00-5a88-11ea-9e2d-d7b50b877c05.jpg)
+
+
 ## Getting Started
 
 This is a 4 page website design. It has CSS and Javascript. 
@@ -32,10 +37,6 @@ Updated the README with the project built.
 * [Vscode](http://www.vscode.com) - The code editor used.
 * [GIT](/https://git-scm.com/) - Version control.
 * [Chrome](https://www.chrome.com) - Visual layout testing.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
