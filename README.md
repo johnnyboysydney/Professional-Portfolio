@@ -47,3 +47,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * I thank the TA and the Teacher who gave me valuable feedback during the classes to be able to create this website.
 * I took the inspiration of the wbsite from the excercise which I found simple but very efective with a lot of potentional to style extensively.
 
+Copyright 2020 &copy; John Merchan
