@@ -4,7 +4,12 @@ Creating a professional portfolio displaying important information regarding my 
 
 ## Eaxmples
 
-![IT_manager](https://user-images.githubusercontent.com/54227198/75551755-fd4dae00-5a88-11ea-9e2d-d7b50b877c05.jpg)
+![Cap2](https://user-images.githubusercontent.com/54227198/75552832-47379380-5a8b-11ea-82bc-39ee5b4f084f.png)
+![Cap1](https://user-images.githubusercontent.com/54227198/75552852-51599200-5a8b-11ea-9a26-466587e19443.png)
+
+
+![cap3](https://user-images.githubusercontent.com/54227198/75552858-561e4600-5a8b-11ea-83c0-d262076853d5.JPG)
+
 
 ## Getting Started
 
