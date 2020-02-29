@@ -2,13 +2,18 @@
 
 /* We add our styles to the body */
 body {
-    background-color: beige;
+    background-color: gray;
 }
 
 ul {
     list-style: disc;
     margin: 8px;
+    
 }
+
+/*  
+
+*/
 
 /* We control the row elements of the site. */
 
