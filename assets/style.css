@@ -4,19 +4,25 @@
 body {
     background-color: gray;
 }
-
+/* Styling unordered lists */
 ul {
     list-style: disc;
     margin: 8px;
-    
 }
+/* Centering the form */
+.container.center_div {
+  margin: 0 auto;
+  width:80% 
+}
+/* Changing style on the box */
 
-/*  
-
-*/
-
-/* We control the row elements of the site. */
-
+.card-body {
+  background-color: #474342;
+}
+/* Chaning the form style and color */
+#exampleFormControlInput1 {
+  color: darkslategray;
+}
 
 /* Style all font awesome icons */
 .fa {
@@ -33,7 +39,6 @@ ul {
   }
   
   /* Setting a specific color for each brand */
-  
   /* Facebook */
   .fa-facebook {
     background: #3B5998;
