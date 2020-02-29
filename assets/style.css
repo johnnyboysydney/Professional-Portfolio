@@ -9,11 +9,7 @@ ul {
     list-style: disc;
     margin: 8px;
 }
-/* Centering the form */
-.container.center_div {
-  margin: 0 auto;
-  width:80% 
-}
+
 /* Changing style on the box */
 
 .card-body {
