@@ -51,5 +51,7 @@ Updated the README with the project built.
 
 * I thank the TA and the Teacher who gave me valuable feedback during the classes to be able to create this website.
 * I took the inspiration of the wbsite from the excercise which I found simple but very efective with a lot of potentional to style extensively.
+## Link to the project
 
+<a href="https://johnnyboysydney.github.io/Professional-Portfolio/">Professional Portfolio</a><hr>
 Copyright 2020 &copy; John Merchan
